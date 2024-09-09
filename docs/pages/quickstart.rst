@@ -28,8 +28,8 @@ Logs will be available in '/var/log/pypot.log'.
 
 Source Code
 -----------
-https://github.com/beit-lachma/bethpypot
+https://github.com/beit-lachma/pypot
 
 Documentation
 -------------
-https://bethpypot.rtfd.io
+https://pypot.rtfd.io
