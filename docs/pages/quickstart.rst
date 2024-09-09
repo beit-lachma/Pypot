@@ -1,6 +1,7 @@
 pypot Quickstart
 ================
-bethpypot is a simple TCP honeypot written in python
+pypot is a simple TCP honeypot written in python
+
 Installation
 ------------
 
