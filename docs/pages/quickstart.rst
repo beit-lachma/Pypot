@@ -23,7 +23,7 @@ Install the Debian package with:
 
     sudo apkg -i pypot-1.0.0.deb
 
-Config defaults to '/etc/bethpypot.ini'.
+Config defaults to '/etc/pypot.ini'.
 Logs will be available in '/var/log/pypot.log'.
 
 Source Code
