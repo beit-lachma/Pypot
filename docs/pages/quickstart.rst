@@ -1,15 +1,15 @@
-bethpypot Quickstart
+pypot Quickstart
 ================
 bethpypot is a simple TCP honeypot written in python
 Installation
 ------------
 
-    python -m pip install bethpypot
+    python -m pip install pypot
 
 Running
 -------
 
-    python -m pip install bethpypot
+    python -m pip install pypot
 
 Debian package
 --------------
@@ -17,14 +17,14 @@ Debian package
 Download the package from github release, or
 Build the Debian package with:
 
-    dpkg-deb --build ./deb bethpypot-1.0.0.deb
+    dpkg-deb --build ./deb pypot-1.0.0.deb
 
 Install the Debian package with:
 
-    sudo apkg -i bethpypot-1.0.0.deb
+    sudo apkg -i pypot-1.0.0.deb
 
 Config defaults to '/etc/bethpypot.ini'.
-Logs will be available in '/var/log/bethpypot.log'.
+Logs will be available in '/var/log/pypot.log'.
 
 Source Code
 -----------
