@@ -1,0 +1,29 @@
+Pypot Quickstart
+================
+
+Installation
+------------
+
+    python -m pip install pypot
+
+Running
+-------
+
+Installing as Debian package
+----------------------------
+
+get the '.deb' from github releases page, and run:
+    sudo apkg -i pypot-1.0.0.deb
+then enable the service with:
+    sudo systemctl enable pypot
+Config defaults to '/etc/pypot.ini'.
+Logs will be available in '/var/log/pypot.log'.
+Source Code
+-----------
+
+https://github.com/beit-lachma/Pypot
+
+Documentation
+-------------
+
+https://pypot.rtfd.io

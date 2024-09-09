@@ -1,0 +1,7 @@
+Package: pypot
+Version: 1.0.0
+Maintainer: pypot <beth131313131313@gmail.com>
+Description: Simple TCP honeypot in python3.
+Homepage: https://github.com/beit-lachma/PyPot
+Architecture: all
+Depends: python3

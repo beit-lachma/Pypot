@@ -1,4 +1,4 @@
-pypot/pypot.ini
+pypot.test.ini
 pypot.log
 venv
 *.egg-info

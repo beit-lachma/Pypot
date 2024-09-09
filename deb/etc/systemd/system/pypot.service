@@ -1,0 +1,12 @@
+[Unit]
+Description=PyPot honeypot
+After=network.target
+
+[Service]
+Type=simple
+User=pypot
+WorkingDirectory=/home/pypot
+ExecStart=/usr/bin/python3 -m pypot /etc/pypot.ini
+Restart=on-failure
+[Install]
+WantedBy=multi-user.target
