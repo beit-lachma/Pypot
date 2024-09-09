@@ -28,7 +28,7 @@ Logs will be available in '/var/log/pypot.log'.
 
 Source Code
 -----------
-https://github.com/beit-lachma/pypot
+https://github.com/beit-lachma/Pypot/tree/master
 
 Documentation
 -------------
